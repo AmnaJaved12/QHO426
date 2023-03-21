@@ -25,3 +25,5 @@ for thing in people.keys():
     print(thing)
 for k, v in people.items():
     print(f"Person {k} is {v} years old")
+
+    ffd
